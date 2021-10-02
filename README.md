@@ -10,7 +10,7 @@ Mapping : iakkoise#4334
 
 Instructions:
 
-    Put in your resources folder
-    start iak_fuen_med
-    Enjoy
+1. Put in your resources folder
+2. start iak_fuen_med
+3. Enjoy
 
