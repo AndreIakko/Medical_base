@@ -10,7 +10,6 @@ Mapping : iakkoise#4334
 
 Instructions:
 
-    Un-zip
     Put in your resources folder
     start iak_fuen_med
     Enjoy
