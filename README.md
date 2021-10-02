@@ -7,3 +7,11 @@ Optimized ymap for your server
 CREDIT
 
 Mapping : iakkoise#4334
+
+Instructions:
+
+    Un-zip
+    Put in your resources folder
+    start iak_fuen_med
+    Enjoy
+
